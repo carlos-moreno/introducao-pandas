@@ -1,1 +1,3 @@
 pandas
+isort
+black
